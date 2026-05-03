@@ -1,0 +1,8 @@
+{
+  "name": "Pixia Service Manager",
+  "description": "Professional service tool for managing large format printers, laminators, and maintenance workflows with work orders and inventory tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
